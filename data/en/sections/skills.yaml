@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: ReactJs
+  icon: "images/react.png"
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://reactjs.org/"
+
+- name: Postman
+  icon: "images/skills/postman.png"
+  summary: "Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster."
+  url: "https://www.postman.com/"
+
+- name: JavaScript
+  icon: "images/skills/iconfinder_javascript_682690.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: HTML5
+  icon: "images/skills/HTML5_Logo_64.png"
+  summary: "The most basic building block of the Web. HTML usesmarkup to annotate text, images, and other content for display in a Web browser."
+  url: "https://developer.mozilla.org/en-US/docs/Web/HTML"
+
+- name: CSS3
+  icon: "images/skills/iconfinder_css3_294692.png"
+  summary: " A stylesheet language used to describe the presentation of a document written in HTML or XML"
+  url: "https://developer.mozilla.org/en-US/docs/Web/CSS"
+
+- name: Linux
+  icon: "images/skills/linux.png"
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  icon: "images/skills/GitHub-Mark-64px.png"
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+
+- name: C++
+  icon: "images/skills/c++.png"
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
