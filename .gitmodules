@@ -1,7 +1,0 @@
-[submodule "themes/toha"]
-	path = themes/toha
-	url = https://github.com/hossainemruz/toha.git
-[submodule "public"]
-	path = public
-	url = https://github.com/Awhit-commits/awhit-commits.github.io.git
-	branch = main
